@@ -4,25 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4085b4c4-e62f-43cb-be0e-e988e25b2ca2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/static/css/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/aurora.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/code3.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/eMobilis.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/hero-bg.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/hero.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/portfolio-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/portfolio-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/portfolio-3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/portfolio-4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/portfolio-5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/portfolio-6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/technovation.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/tuition.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/val.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/home.html" afterDir="false" />
+    <list default="true" id="4085b4c4-e62f-43cb-be0e-e988e25b2ca2" name="Changes" comment="new branch">
+      <change beforePath="$PROJECT_DIR$/static/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/css/styles.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -105,10 +88,65 @@
       <workItem from="1729720957162" duration="8395000" />
       <workItem from="1729729520756" duration="9182000" />
       <workItem from="1729739579458" duration="519000" />
+      <workItem from="1729744818450" duration="11696000" />
     </task>
+    <task id="LOCAL-00001" summary="Third commit">
+      <option name="closed" value="true" />
+      <created>1729753739546</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1729753739546</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Third commit">
+      <option name="closed" value="true" />
+      <created>1729755697892</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1729755697892</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Third commit">
+      <option name="closed" value="true" />
+      <created>1729755782280</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1729755782280</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Third commit">
+      <option name="closed" value="true" />
+      <created>1729756111320</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1729756111320</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Third commit">
+      <option name="closed" value="true" />
+      <created>1729756160844</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1729756160845</updated>
+    </task>
+    <task id="LOCAL-00006" summary="new branch">
+      <option name="closed" value="true" />
+      <created>1729756411453</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1729756411453</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Third commit" />
+    <MESSAGE value="new branch" />
+    <option name="LAST_COMMIT_MESSAGE" value="new branch" />
   </component>
 </project>
