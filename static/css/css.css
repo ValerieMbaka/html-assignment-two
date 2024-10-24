@@ -1,9 +1,8 @@
-body {
+body{
     background-color: #C0C0C0;
-}
-
+    }
 #navBar {
-    background-color: #333333;
+    background-color: #ffffff;
     border-radius: 5px;
     width: 100%;
     margin: 0 auto;
@@ -14,33 +13,38 @@ body {
 
 #navBar .navbar-nav .nav-link,
 #navBar .navbar-brand {
-    color: #ffffff;
+    color: #252525;
     line-height: 30px;
     font-size: 20px;
     font-family: Arial, sans-serif;
 }
 
+/* Change hover effect for links */
 #navBar .navbar-nav .nav-link:hover {
-    color: #11b0ff;
+    color: #000000;
 }
 
+/* Dropdown menu background color */
 #navBar .dropdown-menu {
     background-color: #333333;
 }
 
+/* Dropdown items text color */
 #navBar .dropdown-item {
     color: #ffffff;
 }
 
+/* Change dropdown item hover color */
 #navBar .dropdown-item:hover {
     color: #000000;
 }
 
 #bannerSection {
-    background-color: #000000;
+    background-color: #ffffff;
     border-radius: 5px;
 }
 
+/* Hero Section Styles */
 .hero {
     background-color: rgba(0, 0, 0, 0.45);
     padding: 60px 0;
@@ -80,6 +84,7 @@ body {
     display: none;
 }
 
+/*Cursor animation*/
 .cursor {
     display: inline;
     color: #ffffff;
@@ -92,9 +97,10 @@ body {
     }
 }
 
+/* About Me Section Styles */
 #about {
-    background-color: #333333;
-    color: #ffffff;
+    background-color: #f8f9fa;
+    color: #343a40;
     padding: 60px 0;
     text-align: center;
     border-radius: 10px;
@@ -108,7 +114,7 @@ body {
 #about h2 {
     font-size: 2.5rem;
     margin-bottom: 20px;
-    color: #11b0ff;
+    color: #007bff;
 }
 
 #about p {
@@ -120,6 +126,7 @@ body {
     margin-right: auto;
 }
 
+/* Educational Background Section Styles */
 #education {
     background-color: #ffffff;
     color: #343a40;
@@ -129,6 +136,7 @@ body {
     box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
 }
 
+/*Flexbox styles*/
 .row.justify-content-center {
     display: flex;
     flex-direction: row;
@@ -152,7 +160,6 @@ body {
 .education-item h4 {
     font-size: 1.5rem;
     margin-bottom: 10px;
-    color: #11b0ff;
 }
 
 .education-item h5 {
@@ -164,11 +171,11 @@ body {
 #education h2 {
     font-size: 2.5rem;
     margin-bottom: 20px;
-    color: #11b0ff;
+    color: #007bff;
 }
 
 .text-center i {
-    color: #11b0ff;
+    color: #007bff;
 }
 
 .education-content {
@@ -196,6 +203,7 @@ img {
     object-fit: cover;
 }
 
+/* Aspect Ratio Box */
 #image-container {
     position: relative;
     width: 50%;
@@ -211,6 +219,7 @@ img {
     object-fit: cover;
 }
 
+/* Circular Progress Styles */
 .circular-progress {
     position: relative;
     width: 100px;
@@ -232,10 +241,11 @@ img {
 }
 
 .circular-progress .progress {
-    stroke: #11b0ff;
+    stroke: #007bff;
     transition: stroke-dashoffset 1s;
 }
 
+/* Centering percentage text */
 .percentage {
     position: absolute;
     top: 50%;
@@ -246,11 +256,13 @@ img {
     color: #343a40;
 }
 
+/* Space between the percentage and skill name */
 h5 {
     margin-top: 15px;
     font-size: 1rem;
 }
 
+/* Progress Animation */
 .circular-progress[data-percentage] .progress {
     stroke-dasharray: 283;
     stroke-dashoffset: calc(283 - (283 * var(--percentage) / 100));
@@ -297,7 +309,7 @@ h5 {
 }
 
 .service-item:hover {
-    transform: translateY(-10px);
+    transform: translateY(-10px); /* Elevates on hover */
 }
 
 .service .service-item:hover {
@@ -350,6 +362,7 @@ h5 {
     color: #ffffff;
 }
 
+/* Contact Section */
 .contact-form {
     margin-top: 10px;
     padding: 20px;
@@ -374,8 +387,8 @@ h5 {
 }
 
 .contact-form button {
-    background-color: #11b0ff;
-    color: #ffffff;
+    background-color: #007bff;
+    color: #fff;
     border: none;
     padding: 10px 20px;
     font-size: 1.1rem;
@@ -395,7 +408,7 @@ h5 {
 }
 
 .footer {
-    background-color: #000000;
+    background-color: #cfcdcd;
     color: #ffffff;
     padding: 40px 0;
     text-align: center;
@@ -406,25 +419,25 @@ h5 {
 .footer h2 {
     font-size: 2.5rem;
     margin-bottom: 10px;
-    color: #11b0ff;
+    color: #007bff;
 }
 
 .footer h3 {
     font-size: 1.2rem;
     margin-bottom: 20px;
-    color: #ffffff;
+    color: #333333;
 }
 
 .footer p {
     font-size: 1rem;
-    color: #ffffff;
+    color: #333333;
     margin-bottom: 10px;
 }
 
 .footer-menu a.btn {
     font-size: 1rem;
     font-weight: 500;
-    background-color: #11b0ff;
+    background-color: #007bff;
     border: none;
     color: #ffffff;
     padding: 10px 20px;
@@ -437,6 +450,7 @@ h5 {
     background-color: #0056b3;
 }
 
+/* Footer Copyright Section */
 .footer .copyright {
     background-color: #212529;
     padding: 20px 0;
@@ -446,7 +460,7 @@ h5 {
 }
 
 .footer .copyright a {
-    color: #11b0ff;
+    color: #007bff;
     text-decoration: none;
 }
 
@@ -472,3 +486,14 @@ h5 {
         font-size: 1rem;
     }
 }
+
+
+
+
+
+
+
+
+
+
+
