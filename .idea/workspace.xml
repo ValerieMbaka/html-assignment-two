@@ -4,7 +4,26 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4085b4c4-e62f-43cb-be0e-e988e25b2ca2" name="Changes" comment="" />
+    <list default="true" id="4085b4c4-e62f-43cb-be0e-e988e25b2ca2" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/static/css/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/aurora.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/code3.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/eMobilis.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/hero-bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/hero.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/portfolio-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/portfolio-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/portfolio-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/portfolio-4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/portfolio-5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/portfolio-6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/technovation.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/tuition.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/val.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/home.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,8 +33,27 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;ValerieMbaka&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/ValerieMbaka/html-assignment-two.git&quot;,
+    &quot;accountId&quot;: &quot;ab60bb61-c83f-4aeb-a502-a42505a6fc14&quot;
+  }
+}</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 1
@@ -25,18 +63,26 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/user/PycharmProjects/portfolio/static/images&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\user\PycharmProjects\portfolio\static\images" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -55,6 +101,10 @@
       <updated>1729689320904</updated>
       <workItem from="1729689327033" duration="259000" />
       <workItem from="1729706132191" duration="3329000" />
+      <workItem from="1729714608130" duration="3904000" />
+      <workItem from="1729720957162" duration="8395000" />
+      <workItem from="1729729520756" duration="9182000" />
+      <workItem from="1729739579458" duration="519000" />
     </task>
     <servers />
   </component>
