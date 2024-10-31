@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4085b4c4-e62f-43cb-be0e-e988e25b2ca2" name="Changes" comment="new branch">
+    <list default="true" id="4085b4c4-e62f-43cb-be0e-e988e25b2ca2" name="Changes" comment="css">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/home.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/static/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/css/styles.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -69,8 +71,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-PY-242.23339.19" />
-        <option value="bundled-python-sdk-0029f7779945-399fe30bd8c1-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-242.23339.19" />
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-PY-242.23726.102" />
+        <option value="bundled-python-sdk-5e1850174b45-399fe30bd8c1-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-242.23726.102" />
       </set>
     </attachedChunks>
   </component>
@@ -89,6 +91,19 @@
       <workItem from="1729729520756" duration="9182000" />
       <workItem from="1729739579458" duration="519000" />
       <workItem from="1729744818450" duration="11696000" />
+      <workItem from="1729767324514" duration="140000" />
+      <workItem from="1729774029361" duration="1392000" />
+      <workItem from="1729775486164" duration="29000" />
+      <workItem from="1729775663413" duration="193000" />
+      <workItem from="1729840103626" duration="12000" />
+      <workItem from="1729846601742" duration="132000" />
+      <workItem from="1729884315976" duration="209000" />
+      <workItem from="1730110552713" duration="61000" />
+      <workItem from="1730110886609" duration="123000" />
+      <workItem from="1730112533069" duration="46000" />
+      <workItem from="1730361875129" duration="1630000" />
+      <workItem from="1730364541139" duration="127000" />
+      <workItem from="1730365307462" duration="122000" />
     </task>
     <task id="LOCAL-00001" summary="Third commit">
       <option name="closed" value="true" />
@@ -138,7 +153,15 @@
       <option name="project" value="LOCAL" />
       <updated>1729756411453</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="css">
+      <option name="closed" value="true" />
+      <created>1729758229112</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1729758229112</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -147,6 +170,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Third commit" />
     <MESSAGE value="new branch" />
-    <option name="LAST_COMMIT_MESSAGE" value="new branch" />
+    <MESSAGE value="css" />
+    <option name="LAST_COMMIT_MESSAGE" value="css" />
   </component>
 </project>
