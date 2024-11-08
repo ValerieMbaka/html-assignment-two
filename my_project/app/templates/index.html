@@ -1,0 +1,339 @@
+{% load static %}
+
+<!doctype html>
+<html lang="en">
+<head>
+        <meta charset="UTF-8">
+        <meta name="viewport"
+              content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+        <meta http-equiv="X-UA-Compatible" content="ie=edge">
+
+        <!--Connect to Bootstrap-->
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet"
+              integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH"
+              crossorigin="anonymous">
+
+        <!--Connect to CSS Stylesheet-->
+        <link rel="stylesheet" href="../static/css/styles.css">
+
+        <title>Valerie Mbaka</title>
+
+</head>
+<body>
+
+<!--Navbar start-->
+<nav class="navbar navbar-expand-lg bg-body-tertiary" id="navBar">
+        <div class="container-fluid" id="bannerSection">
+                <a class="navbar-brand" href="index.html">Valerie</a>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
+                        data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
+                        aria-expanded="false" aria-label="Toggle navigation">
+                        <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                        <ul class="navbar-nav ms-auto mb-2 mb-lg-0 d-flex gap-3">
+                                <li class="nav-item">
+                                        <a class="nav-link active" aria-current="page" href="#home">Home</a>
+                                </li>
+                                <li class="nav-item dropdown">
+                                        <a class="nav-link dropdown-toggle" href="#about" role="button" data-bs-toggle="dropdown"
+                                           aria-expanded="false">About Me</a>
+                                        <ul class="dropdown-menu">
+                                                <li><a class="dropdown-item" href="#about">About Me</a></li>
+                                                <li><a class="dropdown-item" href="#education">Education Background</a></li>
+                                                <li><a class="dropdown-item" href="#skills">Skills</a></li>
+                                                <li><hr class="dropdown-divider"></li>
+                                                <li><a class="dropdown-item" href="#skills">Projects</a></li>
+                                        </ul>
+                                </li>
+                                <li class="nav-item">
+                                        <a class="nav-link" href="#services">Services</a>
+                                </li>
+                                <li class="nav-item">
+                                        <a class="nav-link" href="#contact">Contact Me</a>
+                                </li>
+                        </ul>
+                </div>
+        </div>
+</nav>
+<!--End of Navigation Bar-->
+
+<!-- Hero Start -->
+<div class="hero" id="home">
+        <div class="container-fluid">
+                <div class="row align-items-center">
+                        <div class="col-sm-12 col-md-6">
+                                <div class="hero-content">
+                                        <div class="hero-text">
+                                                <p>I'm</p>
+                                                <h1>Valerie Faith Mbaka</h1>
+                                                <h2></h2>
+                                                <div class="typed-text">
+                                                        <span>Web Designer,</span>
+                                                        <span>Web Developer,</span>
+                                                        <span>Front End Developer,</span>
+                                                        <span>Back End Developer,</span>
+                                                        <span>Mobile Apps Designer,</span>
+                                                        <span>Mobile Apps Developer</span>
+                                                        <span class="cursor">|</span>
+                                                </div>
+                                        </div>
+                                </div>
+                        </div>
+                        <div class="col-sm-12 col-md-6 d-none d-md-block">
+                                <div class="hero-image">
+                                        <img src="../static/images/val.jpg" alt="Hero Image">
+                                </div>
+                        </div>
+                </div>
+        </div>
+</div>
+<!-- Hero End -->
+
+<!-- About Me Section -->
+<section class="py-5" id="about">
+        <div class="container">
+                <h2 class="text-center mb-4">About Me</h2>
+                <div class="row justify-content-center">
+                        <div class="col-md-8 text-center">
+                                <p>I am a 19-year-old full-stack developer currently studying a degree
+                                        in Software Engineering at the Multimedia University of Kenya.
+                                        I love coding, reading novels and playing football.</p>
+                                <p>I am also currently studying web development at eMobilis Technology Training Institute.
+                                        I am creative and enjoy turning complex ideas into simple programs that are easy
+                                        to navigate. I am a team player, self-driven and enjoy sharing ideas with my peers</p>
+                        </div>
+                </div>
+        </div>
+</section>
+
+
+<!-- Educational Background Section -->
+<section class="py-5" id="education">
+        <div class="container">
+                <h2 class="text-center mb-4">Educational Background</h2>
+                <div class="row">
+                        <div class="col-md-6 d-flex">
+                                <div>
+                                        <img src="../static/images/tuition.jpg" alt="tuition" class="img-fluid">
+                                </div>
+                                <div class="education-content ms-4">
+                                        <div class="education-item">
+                                                <h4>Multimedia University of Kenya</h4>
+                                                <h5>2023-2027</h5>
+                                                <p>I am currently in my second year of study, taking a degree course in Software Engineering.</p>
+                                        </div>
+                                        <div class="education-item mb-4">
+                                                <h4>eMobilis Technology Training Institute</h4>
+                                                <h5>January 2023-May 2023</h5>
+                                                <p>I studied full-stack development at eMobilis Technology Training Institute</p>
+                                                <h5>October 2024</h5>
+                                                <p>I am studying web development at eMobilis Technology Training Institute</p>
+                                        </div>
+                                        <div class="education-item mb-4">
+                                                <h4>High School</h4>
+                                                <h5>2019-2023</h5>
+                                                <p>I successfully completed my high school studies at The Kenya High School and passed with flying colors in my KCSE examinations.</p>
+                                        </div>
+                                </div>
+                        </div>
+                </div>
+        </div>
+</section>
+
+<!--Skills Section-->
+<section class="py-5" id="skills">
+        <div class="container">
+                <h2 class="text-center mb-4">Personal Skills</h2>
+                <p class="text-center mb-5">
+                        I am very proficient in several areas of the vast world of technology namely Full-Stack Development,
+                        Web Design, Database Management, UI/UX design, Version Control Integration,
+                        Software Development and Artificial Intelligence.
+                </p>
+                <div class="row justify-content-center">
+                        <div class="col-md-3 text-center">
+                                <div class="circular-progress" data-percentage="99">
+                                        <svg>
+                                                <circle cx="50" cy="50" r="45"></circle>
+                                                <circle cx="50" cy="50" r="45" class="progress"></circle>
+                                        </svg>
+                                        <div class="percentage">99%</div>
+                                        <h5>Web Development</h5>
+                                </div>
+                        </div>
+                        <div class="col-md-3 text-center">
+                                <div class="circular-progress" data-percentage="91">
+                                        <svg>
+                                                <circle cx="50" cy="50" r="45"></circle>
+                                                <circle cx="50" cy="50" r="45" class="progress"></circle>
+                                        </svg>
+                                        <div class="percentage">91%</div>
+                                        <h5>Mobile Apps Development</h5>
+                                </div>
+                        </div>
+                        <div class="col-md-3 text-center">
+                                <div class="circular-progress" data-percentage="86">
+                                        <svg>
+                                                <circle cx="50" cy="50" r="45"></circle>
+                                                <circle cx="50" cy="50" r="45" class="progress"></circle>
+                                        </svg>
+                                        <div class="percentage">86%</div>
+                                        <h5>Database Management</h5>
+                                </div>
+                        </div>
+                        <div class="col-md-3 text-center">
+                                <div class="circular-progress" data-percentage="81">
+                                        <svg>
+                                                <circle cx="50" cy="50" r="45"></circle>
+                                                <circle cx="50" cy="50" r="45" class="progress"></circle>
+                                        </svg>
+                                        <div class="percentage">81%</div>
+                                        <h5>Artificial Intelligence</h5>
+                                </div>
+                        </div>
+                </div>
+        </div>
+</section>
+
+<!--Services section -->
+<section>
+        <div class="service" id="services">
+                <div class="container">
+                        <div class="section-header text-center wow zoomIn" data-wow-delay="0.1s">
+                                <p>What I do</p>
+                                <h2>Awesome Quality Services</h2>
+                        </div>
+                        <div class="row">
+                                <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.0s">
+                                        <div class="service-item">
+                                                <div class="service-icon">
+                                                        <img src="../static/images/login.png" alt="Web Design Icon">
+                                                </div>
+                                                <div class="service-text">
+                                                        <h3>Web Design</h3>
+                                                        <p>
+                                                                I design awesome web pages using HTML, CSS and Bootstrap.
+                                                        </p>
+                                                </div>
+                                        </div>
+                                </div>
+                                <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.2s">
+                                        <div class="service-item">
+                                                <div class="service-icon">
+                                                        <img src="../static/images/laptop-screen.png" alt="Web Design Icon">
+                                                </div>
+                                                <div class="service-text">
+                                                        <h3>Web Development</h3>
+                                                        <p>
+                                                                I also develop web pages using backend languages like Python.
+                                                        </p>
+                                                </div>
+                                        </div>
+                                </div>
+                                <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.4s">
+                                        <div class="service-item">
+                                                <div class="service-icon">
+                                                        <img src="../static/images/app.png" alt="Web Design Icon">
+                                                </div>
+                                                <div class="service-text">
+                                                        <h3> Mobile Apps Design</h3>
+                                                        <p>
+                                                                Get uniquely designed apps that fit your specific needs.
+                                                        </p>
+                                                </div>
+                                        </div>
+                                </div>
+                                <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.6s">
+                                        <div class="service-item">
+                                                <div class="service-icon">
+                                                        <img src="../static/images/cross-platform.png" alt="Web Design Icon">
+                                                </div>
+                                                <div class="service-text">
+                                                        <h3> Mobile Apps Development</h3>
+                                                        <p>
+                                                                Get uniquely designed apps that fit your specific needs.
+                                                        </p>
+                                                </div>
+                                        </div>
+                                </div>
+                        </div>
+                </div>
+        </div>
+</section>
+
+<!--Projects section-->
+
+
+
+
+<!-- Contact Section -->
+<section>
+        <div class="footer wow fadeIn" data-wow-delay="0.3s" id="contact">
+                <div class="container-fluid">
+                        <div class="container">
+                                <div class="footer-info">
+                                        <h2>Valerie Mbaka</h2>
+                                        <h3>Nairobi, Kenya</h3>
+                                        <div class="footer-menu">
+                                                <p>0791777107</p>
+                                                <p>valeriembaka0@gmail.com</p>
+                                                <a href="sms:0791777107" class="btn btn-primary mt-3">Send me a message</a>
+                                                <a href="mailto:valeriembaka0@gmail.com" class="btn btn-primary mt-3">Send me an email</a>
+                                        </div>
+                                </div>
+                        </div>
+                </div>
+        </div>
+</section>
+
+
+<!--Footer Section-->
+<section>
+        <div class="footer wow fadeIn" data-wow-delay="0.3s">
+                <div class="container-fluid">
+                        <div class="container copyright">
+                                <p>&copy; <a href="#">Valerie Mbaka</a>, All Rights Reserved |
+                                        Designed By <a href="https://github.com/ValerieMbaka">Valerie Faith Mbaka</a></p>
+                        </div>
+                </div>
+        </div>
+</section>
+
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js"></script>
+
+<script>
+        document.addEventListener('DOMContentLoaded', function() {
+                const typedText = document.querySelectorAll('.typed-text span');
+                const cursor = document.querySelector('.cursor');
+                let currentIndex = 0;
+
+                // Function to show each word one by one
+                function showNextWord() {
+                        if (currentIndex < typedText.length) {
+                                typedText[currentIndex].style.display = 'inline'; // Show the current word
+                                cursor.style.display = 'inline'; // Show the cursor
+                                currentIndex++; // Move to the next word
+                                setTimeout(() => {
+                                        setTimeout(showNextWord, 500); // Delay before showing the next word
+                                }, 500);
+                        } else {
+                                cursor.style.display = 'none'; // Hide cursor when all words are displayed
+                        }
+                }
+
+                // Start showing words after a delay
+                setTimeout(showNextWord, 1000);
+        });
+</script>
+<script>
+        document.querySelectorAll('.circular-progress').forEach((progress) => {
+                const percentage = progress.getAttribute('data-percentage');
+                progress.style.setProperty('--percentage', percentage);
+        });
+</script>
+
+
+
+
+</body>
+</html>
