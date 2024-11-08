@@ -4,7 +4,27 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4085b4c4-e62f-43cb-be0e-e988e25b2ca2" name="Changes" comment="css" />
+    <list default="true" id="4085b4c4-e62f-43cb-be0e-e988e25b2ca2" name="Changes" comment="css">
+      <change afterPath="$PROJECT_DIR$/my_project/app/static/css/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_project/app/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_project/app/templates/layout.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_project/app/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/app.png" beforeDir="false" afterPath="$PROJECT_DIR$/my_project/app/static/images/app.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/aurora.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/my_project/app/static/images/aurora.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/code3.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/my_project/app/static/images/code3.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/cross-platform.png" beforeDir="false" afterPath="$PROJECT_DIR$/my_project/app/static/images/cross-platform.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/eMobilis.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/my_project/app/static/images/eMobilis.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/hero-bg.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/my_project/app/static/images/hero-bg.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/laptop-screen.png" beforeDir="false" afterPath="$PROJECT_DIR$/my_project/app/static/images/laptop-screen.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/login.png" beforeDir="false" afterPath="$PROJECT_DIR$/my_project/app/static/images/login.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/technology.png" beforeDir="false" afterPath="$PROJECT_DIR$/my_project/app/static/images/technology.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/technovation.png" beforeDir="false" afterPath="$PROJECT_DIR$/my_project/app/static/images/technovation.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/tuition.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/my_project/app/static/images/tuition.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/val.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/my_project/app/static/images/val.jpg" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,8 +33,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="CSS File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -63,6 +83,11 @@
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\user\PycharmProjects\portfolio\static\images" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\user\PycharmProjects\portfolio\my_project\app" />
+      <recent name="C:\Users\user\PycharmProjects\portfolio" />
+      <recent name="C:\Users\user\PycharmProjects\portfolio\templates" />
+    </key>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
@@ -101,6 +126,13 @@
       <workItem from="1730364541139" duration="127000" />
       <workItem from="1730365307462" duration="122000" />
       <workItem from="1730374696437" duration="77000" />
+      <workItem from="1730374911813" duration="103000" />
+      <workItem from="1730646142184" duration="1002000" />
+      <workItem from="1730718430894" duration="32000" />
+      <workItem from="1730811832283" duration="107000" />
+      <workItem from="1731083973639" duration="1002000" />
+      <workItem from="1731085239860" duration="585000" />
+      <workItem from="1731087231471" duration="1360000" />
     </task>
     <task id="LOCAL-00001" summary="Third commit">
       <option name="closed" value="true" />
@@ -166,7 +198,15 @@
       <option name="project" value="LOCAL" />
       <updated>1730374734773</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="css">
+      <option name="closed" value="true" />
+      <created>1730374966918</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1730374966918</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
